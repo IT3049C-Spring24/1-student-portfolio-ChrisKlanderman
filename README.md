@@ -10,18 +10,22 @@
 <!--- Update the following line with your self-grade --->
 <!--- Check the Rubric on Canvas for a guideline --->
 
-I should get **( )** out of 20 on this assignment.
+I should get **( 20 )** out of 20 on this assignment.
 
 ## Self-Reflection:
 
 - **How long it took me to finish this?**
 <!-- Answer below this line -->
+This assignment took around an hour to complete.
 
 - **What do you think of this completion time?**
 <!-- Answer below this line -->
+I think it was a good completion time.
 
 - **In hindsight, what would you do differently?**
 - <!-- Answer below this line -->
+I would have finished the project immediately after class. I waited until days after when some of the information was harder to remember.
 
 - **What resources did you use?**
 - <!-- Answer below this line -->
+I used the lecture help you provided as well as the Webpage instructions provided.
